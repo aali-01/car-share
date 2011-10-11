@@ -1,7 +1,7 @@
 #labels dev
 ==Adéla Dragounová==
 
-  * ...
+  * Web client
 
 ==Armen Hajrapetjan==
 
@@ -9,8 +9,8 @@
 
 ==Ladislav Záruba==
 
-  * ...
+  * Android client
 
 ==Marek Fišera==
 
-  * ...
+  * Server backend
