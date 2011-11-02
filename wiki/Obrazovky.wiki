@@ -27,7 +27,7 @@ Aplikace bude obsahovat 5 základních obrazovek:
 
  ==Položky filtru==
   * Odkud
-  ** Kam
+  * Kam
   * Max. teoretická cena za osobu (při plném obsazení)
   * Času odjezdu (rozsah od-do)
   * Max. čas příjezdu
@@ -51,14 +51,14 @@ Aplikace bude obsahovat 5 základních obrazovek:
   
  ==Záložky obrazovky==
   * Trasa cesty
-  ** Obsahuje všechny položky z tabulky  
+    * Obsahuje všechny položky z tabulky  
   * Detail řidiče
-  ** Informace o řidiči
-  ** Detail hodnocení řidiče včetně komentářů hodnocení (rozkliknutí průměrného hodnocení - nepřepínat obrazovku!)
+    * Informace o řidiči
+    * Detail hodnocení řidiče včetně komentářů hodnocení (rozkliknutí průměrného hodnocení - nepřepínat obrazovku!)
   * Mapa??? - (možná vypadne v první verzi)
   * Pasažéři (přístupné pouze pokud jsem zaregistroval cestu jako řidič)
-  ** Informace o uživateli, jeho hodnocení 
-  ** Možnost potvrzování/odmítání potenciálních pasažérů 
+    * Informace o uživateli, jeho hodnocení 
+    * Možnost potvrzování/odmítání potenciálních pasažérů 
  
  Je nutné někam umístit tlačítka: "Chci jet" / "Už nechci"(pokud se jedná o již zaregistrovanou cestu) 
      
@@ -68,8 +68,8 @@ Aplikace bude obsahovat 5 základních obrazovek:
  ==Wizard==
   * Zadání parametrů cesty (viz. předešlý dokument)
   * Zadání trasy cesty (dynamické přidávání dalších zastávek)
-  ** Místo
-  ** Čas  
+    * Místo
+    * Čas  
   * Zobrazit počet zájemců o tuto cestu + ???Zobrazení žádostí, které korespondují s mnou zadanou cestou (možná vypustit v první verzi)??? + možnost odeslat pozvánky (alerty)   
 
  =Seznam upozornění=
