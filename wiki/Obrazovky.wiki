@@ -17,7 +17,7 @@ Aplikace bude obsahovat 5 základních obrazovek:
  ==Obsah obrazovky==
   Zde budou již minule dohodnuté položky (viz. jeden z předchozích dokumentů)
 
- =Seznam jízd=
+=Seznam jízd=
   Jedná se o obrazovku, jejíž hlavním prvkem je tabulka jízd. Obrazovka umožňuje filtrovat tabulku jízd podle zvolených kritérií. Je umožněno přepínat obsah obrazovky pomocí záložek.
 
  ==Záložky obrazovky==
@@ -46,7 +46,7 @@ Aplikace bude obsahovat 5 základních obrazovek:
 -- Otázkou zůstává zda-li bude tento grid použit i pro aktivní cesty - u pasažéra asi ano, ale je to nutné u řidiče?       
 -- Pokud při vyhledávání cesty vyhledávač nic nenajde, zeptá se uživatele, zda-li chce zaregistrovat nový požadavek na cestu, pokud zvolí ano, vloží se požadavek dle vyplněných hodnot
 
- =Detail jízdy=
+=Detail jízdy=
   Na tuto obrazovku se přechází ze seznamu jízd, kliknutím na detail jízdy v tabulce jízd. Obrazovka obsahuje kompletní detaily týkající se dané jízdy. Obrazovka je opět rozdělena na několik záložek.
   
  ==Záložky obrazovky==
@@ -62,7 +62,7 @@ Aplikace bude obsahovat 5 základních obrazovek:
  
  Je nutné někam umístit tlačítka: "Chci jet" / "Už nechci"(pokud se jedná o již zaregistrovanou cestu) 
      
- =Zadání nové cesty=
+=Zadání nové cesty=
  Tato obrazovka by měla spustit wizard, který uživatele provede zadáním nové cesty.
  
  ==Wizard==
@@ -72,5 +72,5 @@ Aplikace bude obsahovat 5 základních obrazovek:
     * Čas  
   * Zobrazit počet zájemců o tuto cestu + ???Zobrazení žádostí, které korespondují s mnou zadanou cestou (možná vypustit v první verzi)??? + možnost odeslat pozvánky (alerty)   
 
- =Seznam upozornění=
+=Seznam upozornění=
  Tato obrazovka by měla zobrazovat všechny doposud přijatá upozornění. Možná nebude nutná v první verzi.
