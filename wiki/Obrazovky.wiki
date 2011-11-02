@@ -43,8 +43,8 @@ Aplikace bude obsahovat 5 základních obrazovek:
   * Hodnocení řidiče
   * Detail (odkaz)
 
-  -- Otázkou zůstává zda-li bude tento grid použit i pro aktivní cesty - u pasažéra asi ano, ale je to nutné u řidiče?       
-  -- Pokud při vyhledávání cesty vyhledávač nic nenajde, zeptá se uživatele, zda-li chce zaregistrovat nový požadavek na cestu, pokud zvolí ano, vloží se požadavek dle vyplněných hodnot
+  * Otázkou zůstává zda-li bude tento grid použit i pro aktivní cesty - u pasažéra asi ano, ale je to nutné u řidiče?       
+  * Pokud při vyhledávání cesty vyhledávač nic nenajde, zeptá se uživatele, zda-li chce zaregistrovat nový požadavek na cestu, pokud zvolí ano, vloží se požadavek dle vyplněných hodnot
 
 =Detail jízdy=
   Na tuto obrazovku se přechází ze seznamu jízd, kliknutím na detail jízdy v tabulce jízd. Obrazovka obsahuje kompletní detaily týkající se dané jízdy. Obrazovka je opět rozdělena na několik záložek.
