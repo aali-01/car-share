@@ -8,10 +8,10 @@ Aplikace bude obsahovat 5 základních obrazovek:
   * Zadání nové cesty jako řidič
   * + Seznam upozornění (možná nebude v první verzi)
 
- =Přihlášení=
+=Přihlášení=
   Jednoduchá obrazovka umožňující přihlášení do systému.
 
- =Registrace=
+=Registrace=
   Obrazovka umožňující registraci nového uživatele. Pokud je uživatel přihlášen, bude možné pomocí této obrazovky měnit svůj profil.
 
  ==Obsah obrazovky==
