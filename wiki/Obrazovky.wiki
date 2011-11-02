@@ -2,7 +2,7 @@
 
 Aplikace bude obsahovat 5 základních obrazovek:
   * Přihlášení
-  * Registrace, profil a jeho úprava
+  ** Registrace, profil a jeho úprava
   * Seznam jízd
   * Detail jízdy
   * Zadání nové cesty jako řidič
