@@ -1,0 +1,12 @@
+This page contains service layer IO specification.
+
+==Acount==
+
+===User login service===
+This service enables registrated users to login
+
+|| URL || */service/account/login* ||
+|| Input || <user-login>
+  <phone-number>606111222</phone-number>
+  <password>doe</password>
+</user-login> ||
