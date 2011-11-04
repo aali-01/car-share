@@ -6,4 +6,7 @@ This page contains service layer IO specification.
 This service enables registrated users to login
 
 || URL || */service/account/login* ||
-|| Input || ... ||
+|| Input || &lt;user-login&gt;
+  &lt;phone-number&gt;606111222&lt;/phone-number&gt;
+  &lt;password&gt;doe&lt;/password&gt;
+&lt;/user-login&gt; ||
